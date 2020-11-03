@@ -87,7 +87,7 @@ public class Authority extends javax.swing.JFrame {
         jPanel2.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(360, 70, 283, 44));
 
         imgl.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jPanel2.add(imgl, new org.netbeans.lib.awtextra.AbsoluteConstraints(670, 0, 10, 190));
+        jPanel2.add(imgl, new org.netbeans.lib.awtextra.AbsoluteConstraints(670, 0, 10, 10));
 
         jPanel1.add(jPanel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 680, 190));
 
